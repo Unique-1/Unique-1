@@ -23,12 +23,12 @@ kindly check it out. 😉
 ![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=laravel)&nbsp;
 ![Wordpress](https://img.shields.io/badge/-Wordpress-05122A?style=flat&logo=wordpress)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![MYSQL](https://img.shields.io/badge/-Mysql-05122A?style=flat&logo=mysql&logoColor=092E20)&nbsp;
+![MYSQL](https://img.shields.io/badge/-Mysql-05122A?style=flat&logo=mysql)&nbsp;
 ![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter)&nbsp;
 ![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=dart)&nbsp;
 ![HTML](https://img.shields.io/badge/-Html-05122A?style=flat&logo=html)&nbsp;
-![CSS](https://img.shields.io/badge/-Python-05122A?style=flat&logo=css)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Javascript-05122A?style=flat&logo=kotlin&logoColor=bootstrap)&nbsp;
+![CSS](https://img.shields.io/badge/-Css-05122A?style=flat&logo=css)&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=bootstrap)&nbsp;
 
 
 <!---
