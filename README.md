@@ -21,12 +21,12 @@ kindly check it out. 😉
 
 ![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)&nbsp;
 ![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=laravel)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+![Wordpress](https://img.shields.io/badge/-Wordpress-05122A?style=flat&logo=wordpress)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![Kotlin](https://img.shields.io/badge/-Kotlin-05122A?style=flat&logo=kotlin&logoColor=092E20)&nbsp;
+![MYSQL](https://img.shields.io/badge/-Mysql-05122A?style=flat&logo=mysql&logoColor=092E20)&nbsp;
 ![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter)&nbsp;
 ![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=dart)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+![HTML](https://img.shields.io/badge/-Html-05122A?style=flat&logo=html)&nbsp;
 ![CSS](https://img.shields.io/badge/-Python-05122A?style=flat&logo=css)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Javascript-05122A?style=flat&logo=kotlin&logoColor=bootstrap)&nbsp;
 
