@@ -3,7 +3,7 @@ I'm a web (Core PHP, Laravel, Wordpress, MySQL, HTML,CSS) developer that design 
 As a competent developer, with the requirement of some client, asking for mobile application  for some software/website, these motivate me to learn (Flutter, Dart, Firebase) purposely for mobile application developement.  
 I have over five(5) years of experience in web development and a year experience using Flutter & Dart. 
 
-I love to keep practice to enhance my skill for better improvement and to become more professional, than before. Below are my personal work so far, dont estitate to mail me for more details.
+I love to keep practice to enhance my skill for better improvement and to become more professional, than before. Below are my personal work so far, dont estitate to mail me for more detail.
 
 ### Some project work done
 [Courese Learning Material for higher Institution](https://course-learning.000webhostapp.com) | [Medical Information System](https://docsharing.000webhostapp.com) | [System Analyst Questionnare](https://qustionnaire.000webhostapp.com) etc
