@@ -1,9 +1,11 @@
-### I 👋, I'm Kola by name, while my username is @Unique-1
-I'm a web (Core PHP, Laravel, Wordpress, MySQL, HTML,CSS) developer that design responsive and dynamic software.   
-As a competent developer, with the requirement of some client, asking for mobile application  for some software/website, these motivate me to learn (Flutter, Dart, Firebase) purposely for mobile application developement.  
-I have over five(5) years of experience in web development and a year experience using Flutter & Dart. 
+### I 👋, I am Olarewaju Kola Abbey by name, while my username is @Unique-1
+I am a Web Developer with expertise in Core PHP, Laravel, WordPress, MySQL, HTML, and CSS, specializing in designing responsive and dynamic software. My passion for innovation and problem-solving has driven me to continuously improve and expand my skill set.
 
-I love to keep practice to enhance my skill for better improvement and to become more professional, than before. Below are my personal work so far, dont estitate to mail me for more details.
+With increasing client demands for mobile applications, I took the initiative to learn Flutter, Dart, and Firebase, enabling me to develop cross-platform mobile applications. I now have over five (5) years of experience in web development and one year of experience in mobile app development.
+
+In addition to my development skills, I also work as an IT Support Specialist, handling tasks such as network troubleshooting, software installation, system maintenance, and technical support. My experience in IT support and software development allows me to provide comprehensive solutions that integrate both software functionality and system stability.
+
+I am committed to continuous learning and professional growth, striving to enhance my skills for better performance and efficiency. Below are some of my personal projects. Feel free to reach out via email for more details.
 
 ### Some project work done
 [Social Networking Site For Discussion](https://hemog.000webhostapp.com/user/login.php) | [UNILAG University cab management services](http://unilagcag.000webhostapp.com/) etc
