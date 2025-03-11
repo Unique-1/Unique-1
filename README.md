@@ -1,7 +1,7 @@
 ### I 👋, I am Olarewaju Kola Abbey by name, while my username is @Unique-1
 I am a Web Developer with expertise in Core PHP, Laravel, WordPress, MySQL, HTML, and CSS, specializing in designing responsive and dynamic software. My passion for innovation and problem-solving has driven me to continuously improve and expand my skill set.
 
-With increasing client demands for mobile applications, I took the initiative to learn Flutter, Dart, and Firebase, enabling me to develop cross-platform mobile applications. I now have over five (5) years of experience in web development and one year of experience in mobile app development.
+With increasing client demands for mobile applications, I took the initiative to learn Flutter, Dart, and Firebase, enabling me to develop cross-platform mobile applications. I now have over five (5) years of Tech Industry.
 
 In addition to my development skills, I also work as an IT Support Specialist, handling tasks such as network troubleshooting, software installation, system maintenance, and technical support. My experience in IT support and software development allows me to provide comprehensive solutions that integrate both software functionality and system stability.
 
